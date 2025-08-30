@@ -1,0 +1,33 @@
+{
+  "generalSettings": "সাধারণ সেটিংস",
+  "systemGeneralSetting": "সিস্টেম সাধারণ সেটিংস",
+  "defaultCurrency": "ডিফল্ট মুদ্রা",
+  "currencyFormat": "মুদ্রার ফরম্যাট",
+  "numberFormat": "সংখ্যার ফরম্যাট",
+  "defaultCountry": "ডিফল্ট দেশ",
+  "dateTimeSettings": "তারিখ ও সময় সেটিংস",
+  "timezone": "সময় অঞ্চল",
+  "startDayOfWeek": "সপ্তাহের শুরুর দিন",
+  "dateFormat": "তারিখের ফরম্যাট",
+  "timeFormat": "সময়ের ফরম্যাট",
+  "fiscalYearStart": "আর্থিক বছরের শুরু",
+  "localization": "লোকালাইজেশন",
+  "defaultLanguage": "ডিফল্ট ভাষা",
+  "save": "সংরক্ষণ করুন",
+  "saving": "সংরক্ষণ করা হচ্ছে...",
+
+  "menu": {
+    "home": "হোম",
+    "allContacts": "সকল যোগাযোগ",
+    "accounts": "অ্যাকাউন্ট",
+    "projects": "প্রকল্প",
+    "reports": "রিপোর্ট",
+    "calendar": "ক্যালেন্ডার",
+    "expenses": "খরচ",
+    "settings": "সেটিংস",
+    "userName": "ব্যবহারকারীর নাম",
+    "profile": "প্রোফাইল",
+    "appearance": "দর্শন",
+    "logout": "প্রস্থান"
+  }
+}

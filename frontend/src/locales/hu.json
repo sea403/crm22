@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Általános beállítások",
+  "systemGeneralSetting": "Rendszer általános beállításai",
+  "defaultCurrency": "Alapértelmezett valuta",
+  "currencyFormat": "Valuta formátum",
+  "numberFormat": "Számformátum",
+  "defaultCountry": "Alapértelmezett ország",
+  "dateTimeSettings": "Dátum és idő beállítások",
+  "timezone": "Időzóna",
+  "startDayOfWeek": "A hét kezdőnapja",
+  "dateFormat": "Dátumformátum",
+  "timeFormat": "Időformátum",
+  "fiscalYearStart": "Pénzügyi év kezdete",
+  "localization": "Lokalizáció",
+  "defaultLanguage": "Alapértelmezett nyelv",
+  "save": "Mentés",
+  "saving": "Mentés folyamatban...",
+  "menu": {
+    "home": "Kezdőlap",
+    "allContacts": "Összes kapcsolat",
+    "accounts": "Fiókok",
+    "projects": "Projektek",
+    "reports": "Jelentések",
+    "calendar": "Naptár",
+    "expenses": "Kiadások",
+    "settings": "Beállítások",
+    "userName": "Felhasználónév",
+    "profile": "Profil",
+    "appearance": "Megjelenés",
+    "logout": "Kijelentkezés"
+  }
+}

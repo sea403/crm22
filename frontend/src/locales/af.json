@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Algemene Instellings",
+  "systemGeneralSetting": "Stelsel Algemene Instellings",
+  "defaultCurrency": "Standaard Geldeenheid",
+  "currencyFormat": "Geldeenheid Formaat",
+  "numberFormat": "Nommerformaat",
+  "defaultCountry": "Standaard Land",
+  "dateTimeSettings": "Datum- en Tydinstellings",
+  "timezone": "Tydsone",
+  "startDayOfWeek": "Begin van die Week",
+  "dateFormat": "Datumformaat",
+  "timeFormat": "Tydformaat",
+  "fiscalYearStart": "Begin van Fiskale Jaar",
+  "localization": "Lokalisering",
+  "defaultLanguage": "Standaard Taal",
+  "save": "Stoor",
+  "saving": "Besig om te stoor...",
+  "menu": {
+    "home": "Tuis",
+    "allContacts": "Alle Kontakte",
+    "accounts": "Rekeninge",
+    "projects": "Projekte",
+    "reports": "Verslae",
+    "calendar": "Kalender",
+    "expenses": "Uitgawes",
+    "settings": "Instellings",
+    "userName": "Gebruikernaam",
+    "profile": "Profiel",
+    "appearance": "Voorkoms",
+    "logout": "Teken uit"
+  }
+}

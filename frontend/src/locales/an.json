@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Configuración Cheneral",
+  "systemGeneralSetting": "Configuración cheneral d’o sistema",
+  "defaultCurrency": "Moneda predeterminada",
+  "currencyFormat": "Formato de moneda",
+  "numberFormat": "Formato de números",
+  "defaultCountry": "País predeterminau",
+  "dateTimeSettings": "Configuración de Calendario y Tiempo",
+  "timezone": "Hus horaria",
+  "startDayOfWeek": "Primer diya d’a semana",
+  "dateFormat": "Formato de diya",
+  "timeFormat": "Formato d’hora",
+  "fiscalYearStart": "Inicio d’o anyo fiscal",
+  "localization": "Localización",
+  "defaultLanguage": "Idioma predeterminau",
+  "save": "Alzar",
+  "saving": "Alzando...",
+
+  "menu": {
+    "home": "Inicio",
+    "allContacts": "Todos os contactos",
+    "accounts": "Cuentas",
+    "projects": "Prochectos",
+    "reports": "Informes",
+    "calendar": "Calendario",
+    "expenses": "Gastos",
+    "settings": "Configuración",
+    "userName": "Nombre d’usuario",
+    "profile": "Perfil",
+    "appearance": "Aparencia",
+    "logout": "Zalir"
+  }
+}

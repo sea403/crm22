@@ -1,0 +1,33 @@
+{
+  "generalSettings": "སྤྱི་སྒྲིགས་སྒྲིག་སྟངས།",
+  "systemGeneralSetting": "རྒྱུན་སྤྱོད་རིམ་ལུགས་སྒྲིག་སྟངས།",
+  "defaultCurrency": "སྔོན་སྒྲིག་དངུལ་མཚོན།",
+  "currencyFormat": "དངུལ་རྩིས་རྩོམ་སྒྲིག",
+  "numberFormat": "ཨང་རྩོམ་སྒྲིག",
+  "defaultCountry": "སྔོན་སྒྲིག་རྒྱལ་ཁབ།",
+  "dateTimeSettings": "ཚེས་གྲངས་དང་དུས་ཚོད་སྒྲིག་སྟངས།",
+  "timezone": "དུས་ཡུན་ཁུལ།",
+  "startDayOfWeek": "བདུན་ཕྲག་འགོ་ཉིན།",
+  "dateFormat": "ཚེས་གྲངས་རྩོམ་སྒྲིག",
+  "timeFormat": "དུས་ཚོད་རྩོམ་སྒྲིག",
+  "fiscalYearStart": "དངུལ་ལས་ལོའི་འགོ་བ།",
+  "localization": "རིགས་སྒྲིག",
+  "defaultLanguage": "སྔོན་སྒྲིག་སྐད་ཡིག",
+  "save": "སྲུང་བཞག",
+  "saving": "སྲུང་བཞག་བཞིན་ཡོད་པ།",
+
+  "menu": {
+    "home": "གཙོ་ཁང་།",
+    "allContacts": "ཐག་རིང་གི་འབྲེལ་ལམ།",
+    "accounts": "རྩིས་ཐོ།",
+    "projects": "ལས་འཆར།",
+    "reports": "སྙན་ཞུ།",
+    "calendar": "ཟླ་ཐོ།",
+    "expenses": "རྒྱུ་ཆ་གསོག་པ།",
+    "settings": "སྒྲིག་སྟངས།",
+    "userName": "ལག་ལེན་པའི་མིང་།",
+    "profile": "རིགས་གཞི།",
+    "appearance": "མཐོང་སྣང་།",
+    "logout": "ཕྱིར་ཐོ་འཇུག"
+  }
+}

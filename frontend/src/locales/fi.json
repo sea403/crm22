@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Yleiset asetukset",
+  "systemGeneralSetting": "Järjestelmän yleisasetus",
+  "defaultCurrency": "Oletusvaluutta",
+  "currencyFormat": "Valuuttamuoto",
+  "numberFormat": "Numeromuoto",
+  "defaultCountry": "Oletusmaa",
+  "dateTimeSettings": "Päivämäärä- ja aika-asetukset",
+  "timezone": "Aikavyöhyke",
+  "startDayOfWeek": "Viikon aloituspäivä",
+  "dateFormat": "Päivämäärämuoto",
+  "timeFormat": "Aikamuoto",
+  "fiscalYearStart": "Tilivuoden alku",
+  "localization": "Kieliasetukset",
+  "defaultLanguage": "Oletuskieli",
+  "save": "Tallenna",
+  "saving": "Tallennetaan...",
+
+  "menu": {
+    "home": "Etusivu",
+    "allContacts": "Kaikki kontaktit",
+    "accounts": "Tilit",
+    "projects": "Projektit",
+    "reports": "Raportit",
+    "calendar": "Kalenteri",
+    "expenses": "Menot",
+    "settings": "Asetukset",
+    "userName": "Käyttäjänimi",
+    "profile": "Profiili",
+    "appearance": "Ulkoasu",
+    "logout": "Kirjaudu ulos"
+  }
+}

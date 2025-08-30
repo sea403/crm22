@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Taqpacha ajlliñanakapa",
+  "systemGeneralSetting": "Sistema taqpacha ajlliñanakapa",
+  "defaultCurrency": "Jukʼamp qallta qullqi",
+  "currencyFormat": "Qullqi wakichäwi",
+  "numberFormat": "Jakhunaka wakichäwi",
+  "defaultCountry": "Jukʼamp qallta marka",
+  "dateTimeSettings": "Uru pacha ajlliñanaka",
+  "timezone": "Pacha chiqankäwi",
+  "startDayOfWeek": "Siman uru qalltawi",
+  "dateFormat": "Uru wakichäwi",
+  "timeFormat": "Pacha wakichäwi",
+  "fiscalYearStart": "Qullqimpi maran qallta uru",
+  "localization": "Uñstayäwi",
+  "defaultLanguage": "Jukʼamp qallta aru",
+  "save": "Imaña",
+  "saving": "Imasina…",
+
+  "menu": {
+    "home": "Utama",
+    "allContacts": "Taqpacha uñtʼatanaka",
+    "accounts": "Yatxatatanaka",
+    "projects": "Proyektunakapa",
+    "reports": "Yatiyawinaka",
+    "calendar": "Pacha mayjtʼäwi",
+    "expenses": "Aphayawinaka",
+    "settings": "Ajlliñanaka",
+    "userName": "Aka apnaqiri sutipa",
+    "profile": "Uñachtʼäwi",
+    "appearance": "Uñjawi",
+    "logout": "Mistuña"
+  }
+}

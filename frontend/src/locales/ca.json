@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Configuració general",
+  "systemGeneralSetting": "Configuració general del sistema",
+  "defaultCurrency": "Moneda predeterminada",
+  "currencyFormat": "Format de moneda",
+  "numberFormat": "Format de número",
+  "defaultCountry": "País predeterminat",
+  "dateTimeSettings": "Configuració de data i hora",
+  "timezone": "Zona horària",
+  "startDayOfWeek": "Dia d'inici de la setmana",
+  "dateFormat": "Format de data",
+  "timeFormat": "Format d'hora",
+  "fiscalYearStart": "Inici de l'exercici fiscal",
+  "localization": "Llengua i regió",
+  "defaultLanguage": "Llengua predeterminada",
+  "save": "Desa",
+  "saving": "Desant...",
+
+  "menu": {
+    "home": "Inici",
+    "allContacts": "Tots els contactes",
+    "accounts": "Comptes",
+    "projects": "Projectes",
+    "reports": "Informes",
+    "calendar": "Calendari",
+    "expenses": "Despeses",
+    "settings": "Configuració",
+    "userName": "Nom d'usuari",
+    "profile": "Perfil",
+    "appearance": "Aparença",
+    "logout": "Tanca sessió"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Opće postavke",
+  "systemGeneralSetting": "Sistemske opće postavke",
+  "defaultCurrency": "Zadana valuta",
+  "currencyFormat": "Format valute",
+  "numberFormat": "Format broja",
+  "defaultCountry": "Zadana zemlja",
+  "dateTimeSettings": "Postavke datuma i vremena",
+  "timezone": "Vremenska zona",
+  "startDayOfWeek": "Početni dan tjedna",
+  "dateFormat": "Format datuma",
+  "timeFormat": "Format vremena",
+  "fiscalYearStart": "Početak fiskalne godine",
+  "localization": "Lokalizacija",
+  "defaultLanguage": "Zadani jezik",
+  "save": "Spremi",
+  "saving": "Spremanje...",
+  "menu": {
+    "home": "Početna",
+    "allContacts": "Svi kontakti",
+    "accounts": "Računi",
+    "projects": "Projekti",
+    "reports": "Izvješća",
+    "calendar": "Kalendar",
+    "expenses": "Troškovi",
+    "settings": "Postavke",
+    "userName": "Korisničko ime",
+    "profile": "Profil",
+    "appearance": "Izgled",
+    "logout": "Odjava"
+  }
+}

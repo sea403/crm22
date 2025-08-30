@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Аинарҭара аҟаҵарақәа",
+  "systemGeneralSetting": "Асиустемазы аинарҭара аҟаҵарақәа",
+  "defaultCurrency": "Анапыҩцәа валута",
+  "currencyFormat": "Валута аформа",
+  "numberFormat": "Ацифра аформа",
+  "defaultCountry": "Анапыҩцәа ҳтәыла",
+  "dateTimeSettings": "Арыцхәи ааигәа аамҭази рышьҭрақәа",
+  "timezone": "Ацымӡакәа аамҭазы",
+  "startDayOfWeek": "Ажьырныҳәа анҵәамҭаз алахәыла",
+  "dateFormat": "Арыцхә аформа",
+  "timeFormat": "Аамҭақә аформа",
+  "fiscalYearStart": "Афинанстә шықәса алагара",
+  "localization": "Алокализациа",
+  "defaultLanguage": "Анапыҩцәа бызшәа",
+  "save": "Ишәҵаны",
+  "saving": "Ишәнаҵо...",
+  "menu": {
+    "home": "Аԥхынтәы",
+    "allContacts": "Аконтактқәа зегьы",
+    "accounts": "Аҟәаҭақәа",
+    "projects": "Апроеқтқәа",
+    "reports": "Аотчетқәа",
+    "calendar": "Акалендари",
+    "expenses": "Архымгақәа",
+    "settings": "Ашьҭаҭақәа",
+    "userName": "Аиустҭыҩцәа ахьӡ",
+    "profile": "Апрофиль",
+    "appearance": "Ахыӡ",
+    "logout": "Анрыжьра"
+  }
+}

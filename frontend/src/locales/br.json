@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Arventennoù hollek",
+  "systemGeneralSetting": "Arventennoù hollek ar reizhiad",
+  "defaultCurrency": "Moneiz dre ziouer",
+  "currencyFormat": "Furmad ar moneiz",
+  "numberFormat": "Furmad an niveroù",
+  "defaultCountry": "Bro dre ziouer",
+  "dateTimeSettings": "Arventennoù Deiziad & Eur",
+  "timezone": "Takad eur",
+  "startDayOfWeek": "Deiz kentañ ar sizhun",
+  "dateFormat": "Furmad an deiziad",
+  "timeFormat": "Furmad an eur",
+  "fiscalYearStart": "Derou ar bloavezh arc'hantel",
+  "localization": "Yezh & lec'hiañ",
+  "defaultLanguage": "Yezh dre ziouer",
+  "save": "Enrollañ",
+  "saving": "O enrollañ...",
+
+  "menu": {
+    "home": "Degemer",
+    "allContacts": "Holl darempredoù",
+    "accounts": "Kontoù",
+    "projects": "Raktresoù",
+    "reports": "Danevelloù",
+    "calendar": "Deiziadur",
+    "expenses": "Goustoù",
+    "settings": "Arventennoù",
+    "userName": "Anv implijer",
+    "profile": "Profil",
+    "appearance": "Neuz",
+    "logout": "Er-maez"
+  }
+}

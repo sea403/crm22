@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Allýsingarstillingar",
+  "systemGeneralSetting": "System allýsingarstilling",
+  "defaultCurrency": "Sjálvvald Mynt",
+  "currencyFormat": "Mynt Format",
+  "numberFormat": "Talformat",
+  "defaultCountry": "Sjálvvalt Land",
+  "dateTimeSettings": "Dagfesting og Tíð",
+  "timezone": "Tíðarøki",
+  "startDayOfWeek": "Vikubyrjanardagur",
+  "dateFormat": "Dagfesting Format",
+  "timeFormat": "Tíð Format",
+  "fiscalYearStart": "Byrjan av Fíggjarári",
+  "localization": "Málstilling",
+  "defaultLanguage": "Sjálvvalt Mál",
+  "save": "Goym",
+  "saving": "Goymir...",
+
+  "menu": {
+    "home": "Heim",
+    "allContacts": "Allir Kontaktar",
+    "accounts": "Konti",
+    "projects": "Verkætlanir",
+    "reports": "Frásagnir",
+    "calendar": "Kalendari",
+    "expenses": "Útreiðslur",
+    "settings": "Stillingar",
+    "userName": "Brúkaranavn",
+    "profile": "Vangamynd",
+    "appearance": "Útsjónd",
+    "logout": "Útgangur"
+  }
+}

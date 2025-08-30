@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Ol Jenarol Seting",
+  "systemGeneralSetting": "Sistem Jenarol Seting",
+  "defaultCurrency": "Defol Moani",
+  "currencyFormat": "Moani Fomaot",
+  "numberFormat": "Namba Fomaot",
+  "defaultCountry": "Defol Kantri",
+  "dateTimeSettings": "Deit mo Taem Seting",
+  "timezone": "Taem Zoun",
+  "startDayOfWeek": "Fas Dei blong Wik",
+  "dateFormat": "Deit Fomaot",
+  "timeFormat": "Taem Fomaot",
+  "fiscalYearStart": "Stat blong Fainansol Yia",
+  "localization": "Lokal Seting",
+  "defaultLanguage": "Defol Langwis",
+  "save": "Sevem",
+  "saving": "Sevem nao...",
+
+  "menu": {
+    "home": "Hom",
+    "allContacts": "Ol Kontak",
+    "accounts": "Akaont",
+    "projects": "Projek",
+    "reports": "Ripot",
+    "calendar": "Kalenda",
+    "expenses": "Kost",
+    "settings": "Seting",
+    "userName": "Yusa Neim",
+    "profile": "Profael",
+    "appearance": "Luk",
+    "logout": "Lao aot"
+  }
+}

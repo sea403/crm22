@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Obecná nastavení",
+  "systemGeneralSetting": "Systémová obecná nastavení",
+  "defaultCurrency": "Výchozí měna",
+  "currencyFormat": "Formát měny",
+  "numberFormat": "Formát čísel",
+  "defaultCountry": "Výchozí země",
+  "dateTimeSettings": "Nastavení data a času",
+  "timezone": "Časové pásmo",
+  "startDayOfWeek": "První den týdne",
+  "dateFormat": "Formát data",
+  "timeFormat": "Formát času",
+  "fiscalYearStart": "Začátek fiskálního roku",
+  "localization": "Lokalizace",
+  "defaultLanguage": "Výchozí jazyk",
+  "save": "Uložit",
+  "saving": "Ukládání...",
+
+  "menu": {
+    "home": "Domů",
+    "allContacts": "Všechny kontakty",
+    "accounts": "Účty",
+    "projects": "Projekty",
+    "reports": "Zprávy",
+    "calendar": "Kalendář",
+    "expenses": "Výdaje",
+    "settings": "Nastavení",
+    "userName": "Uživatelské jméno",
+    "profile": "Profil",
+    "appearance": "Vzhled",
+    "logout": "Odhlásit se"
+  }
+}

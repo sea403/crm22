@@ -1,0 +1,33 @@
+{
+  "generalSettings": "አጠቃላይ ቅንብሮች",
+  "systemGeneralSetting": "የስርአቱ አጠቃላይ ቅንብር",
+  "defaultCurrency": "ነባሪ ገንዘብ",
+  "currencyFormat": "የገንዘብ ቅርጸት",
+  "numberFormat": "የቁጥር ቅርጸት",
+  "defaultCountry": "ነባሪ ሀገር",
+  "dateTimeSettings": "የቀንና ሰዓት ቅንብሮች",
+  "timezone": "የሰዓት ቀበሌ",
+  "startDayOfWeek": "የሳምንቱ መጀመሪያ ቀን",
+  "dateFormat": "የቀን ቅርጸት",
+  "timeFormat": "የሰዓት ቅርጸት",
+  "fiscalYearStart": "የፋይናንስ አመት መጀመሪያ",
+  "localization": "ቋንቋና አካባቢ ቅንብር",
+  "defaultLanguage": "ነባሪ ቋንቋ",
+  "save": "አስቀምጥ",
+  "saving": "በመቀመጥ ላይ...",
+
+  "menu": {
+    "home": "መነሻ",
+    "allContacts": "ሁሉም እውቂያዎች",
+    "accounts": "መለያዎች",
+    "projects": "ፕሮጀክቶች",
+    "reports": "ሪፖርቶች",
+    "calendar": "የቀን መቁጠሪያ",
+    "expenses": "ወጪዎች",
+    "settings": "ቅንብሮች",
+    "userName": "የተጠቃሚ ስም",
+    "profile": "መገለጫ",
+    "appearance": "መልኩ",
+    "logout": "ውጣ"
+  }
+}

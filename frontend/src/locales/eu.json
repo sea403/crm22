@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Ezarpen Orokorrak",
+  "systemGeneralSetting": "Sistemaren Ezarpen Orokorrak",
+  "defaultCurrency": "Lehenetsitako Moneta",
+  "currencyFormat": "Moneta Formatoa",
+  "numberFormat": "Zenbaki Formatoa",
+  "defaultCountry": "Lehenetsitako Herrialdea",
+  "dateTimeSettings": "Data eta Ordu Ezarpenak",
+  "timezone": "Ordu Eremua",
+  "startDayOfWeek": "Aste Buruaren Hasiera",
+  "dateFormat": "Data Formatoa",
+  "timeFormat": "Ordu Formatoa",
+  "fiscalYearStart": "Urte Fiskalaren Hasiera",
+  "localization": "Lokalizazioa",
+  "defaultLanguage": "Lehenetsitako Hizkuntza",
+  "save": "Gorde",
+  "saving": "Gordetzen...",
+
+  "menu": {
+    "home": "Hasiera",
+    "allContacts": "Kontaktu Guztiak",
+    "accounts": "Kontuak",
+    "projects": "Proiektuak",
+    "reports": "Txostenak",
+    "calendar": "Egutegia",
+    "expenses": "Gastuak",
+    "settings": "Ezarpenak",
+    "userName": "Erabiltzaile Izena",
+    "profile": "Profila",
+    "appearance": "Itxura",
+    "logout": "Amaitu saioa"
+  }
+}

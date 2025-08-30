@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Пĕрле шутлар",
+  "systemGeneralSetting": "Сисем пĕрле шутлар",
+  "defaultCurrency": "Паян тӳл",
+  "currencyFormat": "Тӳл формати",
+  "numberFormat": "Хисеп формати",
+  "defaultCountry": "Паян пӗр",
+  "dateTimeSettings": "Хура / Вырăн шутлар",
+  "timezone": "Вырăн районĕ",
+  "startDayOfWeek": "Эртнĕ кун",
+  "dateFormat": "Хура формати",
+  "timeFormat": "Вырăн формати",
+  "fiscalYearStart": "Финансовăй çул сӑн",
+  "localization": "Локализаци",
+  "defaultLanguage": "Паян чĕлхи",
+  "save": "Саклар",
+  "saving": "Сакланать...",
+
+  "menu": {
+    "home": "Тӗп",
+    "allContacts": "Пур контактер",
+    "accounts": "Аккаунтсем",
+    "projects": "Проектсем",
+    "reports": "Отчётсем",
+    "calendar": "Календарь",
+    "expenses": "Хӑрал",
+    "settings": "Шутлар",
+    "userName": "Пайăн ҫӗрӗ",
+    "profile": "Профиль",
+    "appearance": "Кӗрěшěв",
+    "logout": "Чытар"
+  }
+}

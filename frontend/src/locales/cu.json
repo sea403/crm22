@@ -1,0 +1,33 @@
+{
+  "generalSettings": "обща настрꙑ",
+  "systemGeneralSetting": "сѝстемьна обща настрꙑ",
+  "defaultCurrency": "основна валꙑꙗ",
+  "currencyFormat": "образъ валꙑꙗ",
+  "numberFormat": "образъ чиселъ",
+  "defaultCountry": "основьна страна",
+  "dateTimeSettings": "настрꙑ времени и дн҃а",
+  "timezone": "временнꙑй поясъ",
+  "startDayOfWeek": "начало седмицы",
+  "dateFormat": "образъ дн҃а",
+  "timeFormat": "образъ времени",
+  "fiscalYearStart": "начало лѣта доходнаго",
+  "localization": "мѣстна речь",
+  "defaultLanguage": "основьна речь",
+  "save": "спаси",
+  "saving": "спасаю...",
+
+  "menu": {
+    "home": "домъ",
+    "allContacts": "вси сътꙑи",
+    "accounts": "счѣти",
+    "projects": "проекти",
+    "reports": "вѣсти",
+    "calendar": "календарь",
+    "expenses": "расходъ",
+    "settings": "настрꙑ",
+    "userName": "имѧ корисника",
+    "profile": "образъ",
+    "appearance": "видъ",
+    "logout": "изходъ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Nsɛnhyɛso Titiriw",
+  "systemGeneralSetting": "Sɛsɛɛ Titiriw no",
+  "defaultCurrency": "Sika a ɛda Ho Dedaw",
+  "currencyFormat": "Sika Nhyehyɛe",
+  "numberFormat": "Nɔma Nhyehyɛe",
+  "defaultCountry": "Ɔman a ɛda Ho Dedaw",
+  "dateTimeSettings": "Da ne Berɛ Nhyehyɛe",
+  "timezone": "Berɛ Nkyerɛmu",
+  "startDayOfWeek": "Da a Ɛfi Nnawɔtwe No",
+  "dateFormat": "Da Nhyehyɛe",
+  "timeFormat": "Berɛ Nhyehyɛe",
+  "fiscalYearStart": "Afiri Sika Afe no",
+  "localization": "Kasa ne Ɔman Nkyerɛkyerɛ",
+  "defaultLanguage": "Kasa a ɛda Ho Dedaw",
+  "save": "Sie",
+  "saving": "Rekɔ Sie...",
+
+  "menu": {
+    "home": "Fie",
+    "allContacts": "Nkontabuo Nyinaa",
+    "accounts": "Akontaa",
+    "projects": "Adwuma",
+    "reports": "Amansɛm",
+    "calendar": "Afehyia",
+    "expenses": "Sika a Wɔde Yɛ Adwuma",
+    "settings": "Nsɛnhyɛso",
+    "userName": "Din a Wɔde Bɔ Wo",
+    "profile": "Nkyerɛmu",
+    "appearance": "Nhwɛso",
+    "logout": "Pue"
+  }
+}

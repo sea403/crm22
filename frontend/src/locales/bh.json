@@ -1,0 +1,33 @@
+{
+  "generalSettings": "सामान्य सेटिंग",
+  "systemGeneralSetting": "सिस्टम के सामान्य सेटिंग",
+  "defaultCurrency": "डिफ़ॉल्ट मुद्रा",
+  "currencyFormat": "मुद्रा के फॉर्मेट",
+  "numberFormat": "नंबर फॉर्मेट",
+  "defaultCountry": "डिफ़ॉल्ट देश",
+  "dateTimeSettings": "तारीख आ समय के सेटिंग",
+  "timezone": "समय क्षेत्र",
+  "startDayOfWeek": "हफ्ता के पहिला दिन",
+  "dateFormat": "तारीख के फॉर्मेट",
+  "timeFormat": "समय के फॉर्मेट",
+  "fiscalYearStart": "वित्तीय साल के शुरुआत",
+  "localization": "स्थानीयकरण",
+  "defaultLanguage": "डिफ़ॉल्ट भाषा",
+  "save": "सेभ करीं",
+  "saving": "सेभ होत बा...",
+
+  "menu": {
+    "home": "होम",
+    "allContacts": "सभे संपर्क",
+    "accounts": "खाता",
+    "projects": "परियोजना",
+    "reports": "रिपोर्ट",
+    "calendar": "कैलेंडर",
+    "expenses": "खर्चा",
+    "settings": "सेटिंग",
+    "userName": "यूजर नाम",
+    "profile": "प्रोफाइल",
+    "appearance": "रूप",
+    "logout": "लॉगआउट"
+  }
+}

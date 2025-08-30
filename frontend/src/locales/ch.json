@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Ginetnen Mångge",
+  "systemGeneralSetting": "Ginetnen Mångge gi Sistema",
+  "defaultCurrency": "Korrienti por defekto",
+  "currencyFormat": "Fomåt i Korrienti",
+  "numberFormat": "Fomåt i Númeru",
+  "defaultCountry": "Nasión por defekto",
+  "dateTimeSettings": "Ginetnen Tiempu yan Fecha",
+  "timezone": "Zonåt Tiempo",
+  "startDayOfWeek": "Umåmko na Día gi Semåna",
+  "dateFormat": "Fomåt i Fecha",
+  "timeFormat": "Fomåt i Tiempo",
+  "fiscalYearStart": "Umåmko na Año Fiskåt",
+  "localization": "Lokalizasion",
+  "defaultLanguage": "Lengguåhi por defekto",
+  "save": "Sånge",
+  "saving": "Sånge ha’...",
+
+  "menu": {
+    "home": "Gima'",
+    "allContacts": "To’tu Kontåktos",
+    "accounts": "Akun",
+    "projects": "Proyekto",
+    "reports": "Ripottes",
+    "calendar": "Kalinåt",
+    "expenses": "Gasto",
+    "settings": "Ginetnen",
+    "userName": "Ngangån i Usuåriu",
+    "profile": "Profil",
+    "appearance": "Apariensia",
+    "logout": "Sali"
+  }
+}

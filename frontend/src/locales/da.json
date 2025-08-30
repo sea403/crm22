@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Generelle Indstillinger",
+  "systemGeneralSetting": "Systemets Generelle Indstilling",
+  "defaultCurrency": "Standardvaluta",
+  "currencyFormat": "Valutaformat",
+  "numberFormat": "Talformat",
+  "defaultCountry": "Standardland",
+  "dateTimeSettings": "Dato- og Tidsindstillinger",
+  "timezone": "Tidszone",
+  "startDayOfWeek": "Ugens Startdag",
+  "dateFormat": "Datoformat",
+  "timeFormat": "Tidsformat",
+  "fiscalYearStart": "Start på Regnskabsåret",
+  "localization": "Lokalisering",
+  "defaultLanguage": "Standardsprog",
+  "save": "Gem",
+  "saving": "Gemmer...",
+
+  "menu": {
+    "home": "Hjem",
+    "allContacts": "Alle Kontakter",
+    "accounts": "Konti",
+    "projects": "Projekter",
+    "reports": "Rapporter",
+    "calendar": "Kalender",
+    "expenses": "Udgifter",
+    "settings": "Indstillinger",
+    "userName": "Brugernavn",
+    "profile": "Profil",
+    "appearance": "Udseende",
+    "logout": "Log ud"
+  }
+}

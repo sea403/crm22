@@ -1,0 +1,33 @@
+{
+  "generalSettings": "الإعدادات العامة",
+  "systemGeneralSetting": "الإعدادات العامة للنظام",
+  "defaultCurrency": "العملة الافتراضية",
+  "currencyFormat": "تنسيق العملة",
+  "numberFormat": "تنسيق الأرقام",
+  "defaultCountry": "الدولة الافتراضية",
+  "dateTimeSettings": "إعدادات التاريخ والوقت",
+  "timezone": "المنطقة الزمنية",
+  "startDayOfWeek": "أول يوم في الأسبوع",
+  "dateFormat": "تنسيق التاريخ",
+  "timeFormat": "تنسيق الوقت",
+  "fiscalYearStart": "بداية السنة المالية",
+  "localization": "اللغة والموقع",
+  "defaultLanguage": "اللغة الافتراضية",
+  "save": "حفظ",
+  "saving": "جارٍ الحفظ...",
+
+  "menu": {
+    "home": "الرئيسية",
+    "allContacts": "جميع جهات الاتصال",
+    "accounts": "الحسابات",
+    "projects": "المشاريع",
+    "reports": "التقارير",
+    "calendar": "التقويم",
+    "expenses": "المصاريف",
+    "settings": "الإعدادات",
+    "userName": "اسم المستخدم",
+    "profile": "الملف الشخصي",
+    "appearance": "المظهر",
+    "logout": "تسجيل الخروج"
+  }
+}

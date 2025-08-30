@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Teelte ŋalɗi",
+  "systemGeneralSetting": "Teelte ŋalɗi suudu",
+  "defaultCurrency": "Jaajol ñaamirde",
+  "currencyFormat": "Nataande ñaamirde",
+  "numberFormat": "Nataande lakkal",
+  "defaultCountry": "Duutol ñaamirde",
+  "dateTimeSettings": "Teelte ñalnde e jamma",
+  "timezone": "Rewte jamma",
+  "startDayOfWeek": "Ñalnde ndiyam",
+  "dateFormat": "Nataande ñalnde",
+  "timeFormat": "Nataande jamma",
+  "fiscalYearStart": "Hurmitugol moƴƴiiji",
+  "localization": "Mbannge",
+  "defaultLanguage": "Ɗemngal ñaamirde",
+  "save": "Danndu",
+  "saving": "Danndude...",
+
+  "menu": {
+    "home": "Suuɗo",
+    "allContacts": "Ndiɗo Contacts",
+    "accounts": "Koonti",
+    "projects": "Proje",
+    "reports": "Jaati",
+    "calendar": "Kalandar",
+    "expenses": "Kofe",
+    "settings": "Teelte",
+    "userName": "Innde Jogiiɗo",
+    "profile": "Profiil",
+    "appearance": "Ɓamɗo",
+    "logout": "Fowru"
+  }
+}

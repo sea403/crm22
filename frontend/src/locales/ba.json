@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Дөйөм Көйләүҙәр",
+  "systemGeneralSetting": "Система дөйөм көйләүҙәре",
+  "defaultCurrency": "Үрнәк валюта",
+  "currencyFormat": "Валюта форматы",
+  "numberFormat": "Һан форматы",
+  "defaultCountry": "Үрнәк ил",
+  "dateTimeSettings": "Дата һәм ваҡыт көйләүҙәре",
+  "timezone": "Ваҡыт бүлкәте",
+  "startDayOfWeek": "Атнаның башланған көнө",
+  "dateFormat": "Дата форматы",
+  "timeFormat": "Ваҡыт форматы",
+  "fiscalYearStart": "Финанс йылының башы",
+  "localization": "Локализация",
+  "defaultLanguage": "Үрнәк тел",
+  "save": "Һаҡлау",
+  "saving": "Һаҡлана...",
+  "menu": {
+    "home": "Өй",
+    "allContacts": "Барлыҡ контакттар",
+    "accounts": "Һисаптар",
+    "projects": "Проекттар",
+    "reports": "Докладтар",
+    "calendar": "Календарь",
+    "expenses": "Сығымдар",
+    "settings": "Көйләүҙәр",
+    "userName": "Ҡулланыусы исеме",
+    "profile": "Профиль",
+    "appearance": "Тышҡы ҡиәфәт",
+    "logout": "Сығыу"
+  }
+}

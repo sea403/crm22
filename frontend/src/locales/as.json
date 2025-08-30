@@ -1,0 +1,32 @@
+{
+  "generalSettings": "সাধাৰণ ছেটিংছ",
+  "systemGeneralSetting": "চিষ্টেম সাধাৰণ ছেটিংছ",
+  "defaultCurrency": "ডিফল্ট মুদ্ৰা",
+  "currencyFormat": "মুদ্ৰা ফৰমেট",
+  "numberFormat": "সংখ্যাৰ ফৰমেট",
+  "defaultCountry": "ডিফল্ট দেশ",
+  "dateTimeSettings": "তাৰিখ আৰু সময়ৰ ছেটিংছ",
+  "timezone": "সময় অঞ্চল",
+  "startDayOfWeek": "সপ্তাহৰ আৰম্ভণিৰ দিন",
+  "dateFormat": "তাৰিখৰ ফৰমেট",
+  "timeFormat": "সময়ৰ ফৰমেট",
+  "fiscalYearStart": "আৰ্থিক বৰ্ষ আৰম্ভ",
+  "localization": "স্থানীয়কৰণ",
+  "defaultLanguage": "ডিফল্ট ভাষা",
+  "save": "ছেভ কৰক",
+  "saving": "ছেভ কৰি আছে...",
+  "menu": {
+    "home": "হোম",
+    "allContacts": "সকলো সংযোগ",
+    "accounts": "হিছাববোৰ",
+    "projects": "প্ৰকল্পবোৰ",
+    "reports": "ৰিপ'ৰ্টসমূহ",
+    "calendar": "কেলেণ্ডাৰ",
+    "expenses": "খৰচ",
+    "settings": "ছেটিংছ",
+    "userName": "ব্যৱহাৰকাৰীৰ নাম",
+    "profile": "প্ৰ’ফাইল",
+    "appearance": "দেখা",
+    "logout": "লগ আউট"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Configuraciones Generales",
+  "systemGeneralSetting": "Configuración General del Sistema",
+  "defaultCurrency": "Moneda Predeterminada",
+  "currencyFormat": "Formato de Moneda",
+  "numberFormat": "Formato Numérico",
+  "defaultCountry": "País Predeterminado",
+  "dateTimeSettings": "Configuración de Fecha y Hora",
+  "timezone": "Zona Horaria",
+  "startDayOfWeek": "Día de Inicio de la Semana",
+  "dateFormat": "Formato de Fecha",
+  "timeFormat": "Formato de Hora",
+  "fiscalYearStart": "Inicio del Año Fiscal",
+  "localization": "Localización",
+  "defaultLanguage": "Idioma Predeterminado",
+  "save": "Guardar",
+  "saving": "Guardando...",
+
+  "menu": {
+    "home": "Inicio",
+    "allContacts": "Todos los Contactos",
+    "accounts": "Cuentas",
+    "projects": "Proyectos",
+    "reports": "Informes",
+    "calendar": "Calendario",
+    "expenses": "Gastos",
+    "settings": "Configuraciones",
+    "userName": "Nombre de Usuario",
+    "profile": "Perfil",
+    "appearance": "Apariencia",
+    "logout": "Cerrar Sesión"
+  }
+}

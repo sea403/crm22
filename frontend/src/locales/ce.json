@@ -1,0 +1,33 @@
+{
+  "generalSettings": "ГІенерал тохур",
+  "systemGeneralSetting": "Системийн гІенерал тохур",
+  "defaultCurrency": "Дефолт тӀехьна",
+  "currencyFormat": "ТӀехьна формат",
+  "numberFormat": "ЦӀий формат",
+  "defaultCountry": "Дефолт дойла",
+  "dateTimeSettings": "Дата цуьнан тохур",
+  "timezone": "Временн къорам",
+  "startDayOfWeek": "Кхин кхетара хьалха",
+  "dateFormat": "Дата формат",
+  "timeFormat": "Цуьнан формат",
+  "fiscalYearStart": "Финансийн шера тӀаьххьара",
+  "localization": "Локализаци",
+  "defaultLanguage": "Дефолт мотт",
+  "save": "Сохран хьо",
+  "saving": "Сохран хьаца...",
+
+  "menu": {
+    "home": "Дега",
+    "allContacts": "Хьан хьалхара",
+    "accounts": "Аккаунтеш",
+    "projects": "Проектеш",
+    "reports": "Отчётиш",
+    "calendar": "Календарь",
+    "expenses": "Чужо",
+    "settings": "Тохур",
+    "userName": "Къонахийн цӀе",
+    "profile": "Профиль",
+    "appearance": "Кхет",
+    "logout": "ДIаьлла"
+  }
+}

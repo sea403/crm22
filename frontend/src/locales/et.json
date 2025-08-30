@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Üldseaded",
+  "systemGeneralSetting": "Süsteemi üldseaded",
+  "defaultCurrency": "Vaikimisi Valuuta",
+  "currencyFormat": "Valuuta Vorming",
+  "numberFormat": "Numbrivorming",
+  "defaultCountry": "Vaikimisi Riik",
+  "dateTimeSettings": "Kuupäeva ja Kellaaja Seaded",
+  "timezone": "Ajavöönd",
+  "startDayOfWeek": "Nädala Alguspäev",
+  "dateFormat": "Kuupäevavorming",
+  "timeFormat": "Kellaajavorming",
+  "fiscalYearStart": "Eelarveaasta Algus",
+  "localization": "Lokaliseerimine",
+  "defaultLanguage": "Vaikimisi Keel",
+  "save": "Salvesta",
+  "saving": "Salvestamine...",
+
+  "menu": {
+    "home": "Avaleht",
+    "allContacts": "Kõik Kontaktid",
+    "accounts": "Kontod",
+    "projects": "Projektid",
+    "reports": "Aruanded",
+    "calendar": "Kalender",
+    "expenses": "Kulud",
+    "settings": "Seaded",
+    "userName": "Kasutajanimi",
+    "profile": "Profiil",
+    "appearance": "Välimus",
+    "logout": "Logi Välja"
+  }
+}

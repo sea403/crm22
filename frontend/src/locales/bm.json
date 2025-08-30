@@ -1,0 +1,34 @@
+{
+  "generalSettings": "Tunya ta kɔfɛ",
+  "systemGeneralSetting": "Sistɛmu tunya ta kɔfɛ",
+  "defaultCurrency": "Farikolo fɔlɔ",
+  "currencyFormat": "Farikolo kɛlɛ",
+  "numberFormat": "Jatigɛ kɛlɛ",
+  "defaultCountry": "Dugu fɔlɔ",
+  "dateTimeSettings": "Don ni tile kɔfɛ",
+  "timezone": "Tile jɔ",
+  "startDayOfWeek": "Don kalo fɔlɔ",
+  "dateFormat": "Don kɛlɛ",
+  "timeFormat": "Tile kɛlɛ",
+  "fiscalYearStart": "Baarakɛlan kalo fɔlɔ",
+  "localization": "Fɛnw kɔnɔ la",
+  "defaultLanguage": "Kalan fɔlɔ",
+  "save": "Jɛgɛ",
+  "saving": "Jɛgɛra..."
+
+  ,
+  "menu": {
+    "home": "Sɔ",
+    "allContacts": "Ko bɛɛ",
+    "accounts": "Komptu",
+    "projects": "Projeku",
+    "reports": "Rapɔru",
+    "calendar": "Kalandari",
+    "expenses": "Dɛnsɛbaya",
+    "settings": "Kɔfɛ",
+    "userName": "Uzeri tɔgɔ",
+    "profile": "Profilu",
+    "appearance": "Dɔrɔkɛya",
+    "logout": "Ka bɔ"
+  }
+}

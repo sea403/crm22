@@ -1,0 +1,32 @@
+{
+  "generalSettings": "பொதுவான அமைப்புகள்",
+  "systemGeneralSetting": "கணினி பொது அமைப்புகள்",
+  "defaultCurrency": "இயல்புநிலை நாணயம்",
+  "currencyFormat": "நாணய வடிவம்",
+  "numberFormat": "எண் வடிவம்",
+  "defaultCountry": "இயல்புநிலை நாடு",
+  "dateTimeSettings": "தேதி மற்றும் நேர அமைப்புகள்",
+  "timezone": "நேர மண்டலம்",
+  "startDayOfWeek": "வாரத்தின் தொடக்க நாள்",
+  "dateFormat": "தேதி வடிவம்",
+  "timeFormat": "நேர வடிவம்",
+  "fiscalYearStart": "நிதி ஆண்டின் தொடக்கம்",
+  "localization": "மொழிபெயர்ப்பு",
+  "defaultLanguage": "இயல்புநிலை மொழி",
+  "save": "சேமி",
+  "saving": "சேமிக்கப்படுகிறது...",
+  "menu": {
+    "home": "முகப்பு",
+    "allContacts": "அனைத்து தொடர்புகள்",
+    "accounts": "கணக்குகள்",
+    "projects": "திட்டங்கள்",
+    "reports": "அறிக்கைகள்",
+    "calendar": "நாட்காட்டி",
+    "expenses": "செலவுகள்",
+    "settings": "அமைப்புகள்",
+    "userName": "பயனர் பெயர்",
+    "profile": "சுயவிவரம்",
+    "appearance": "தோற்றம்",
+    "logout": "வெளியேறு"
+  }
+}

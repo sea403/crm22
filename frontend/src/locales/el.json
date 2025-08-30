@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Γενικές Ρυθμίσεις",
+  "systemGeneralSetting": "Γενικές Ρυθμίσεις Συστήματος",
+  "defaultCurrency": "Προεπιλεγμένο Νόμισμα",
+  "currencyFormat": "Μορφή Νομίσματος",
+  "numberFormat": "Μορφή Αριθμών",
+  "defaultCountry": "Προεπιλεγμένη Χώρα",
+  "dateTimeSettings": "Ρυθμίσεις Ημερομηνίας και Ώρας",
+  "timezone": "Ζώνη Ώρας",
+  "startDayOfWeek": "Ημέρα Έναρξης Εβδομάδας",
+  "dateFormat": "Μορφή Ημερομηνίας",
+  "timeFormat": "Μορφή Ώρας",
+  "fiscalYearStart": "Έναρξη Οικονομικού Έτους",
+  "localization": "Τοπικοποίηση",
+  "defaultLanguage": "Προεπιλεγμένη Γλώσσα",
+  "save": "Αποθήκευση",
+  "saving": "Αποθήκευση...",
+
+  "menu": {
+    "home": "Αρχική",
+    "allContacts": "Όλες οι Επαφές",
+    "accounts": "Λογαριασμοί",
+    "projects": "Έργα",
+    "reports": "Αναφορές",
+    "calendar": "Ημερολόγιο",
+    "expenses": "Έξοδα",
+    "settings": "Ρυθμίσεις",
+    "userName": "Όνομα Χρήστη",
+    "profile": "Προφίλ",
+    "appearance": "Εμφάνιση",
+    "logout": "Αποσύνδεση"
+  }
+}

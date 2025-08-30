@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Агульныя налады",
+  "systemGeneralSetting": "Агульныя налады сістэмы",
+  "defaultCurrency": "Валюта па змаўчанні",
+  "currencyFormat": "Фармат валюты",
+  "numberFormat": "Фармат лікаў",
+  "defaultCountry": "Краіна па змаўчанні",
+  "dateTimeSettings": "Налады даты і часу",
+  "timezone": "Часавы пояс",
+  "startDayOfWeek": "Пачатак тыдня",
+  "dateFormat": "Фармат даты",
+  "timeFormat": "Фармат часу",
+  "fiscalYearStart": "Пачатак фінансавага года",
+  "localization": "Лакалізацыя",
+  "defaultLanguage": "Мова па змаўчанні",
+  "save": "Захаваць",
+  "saving": "Захаванне...",
+
+  "menu": {
+    "home": "Галоўная",
+    "allContacts": "Усе кантакты",
+    "accounts": "Рахункі",
+    "projects": "Праекты",
+    "reports": "Справаздачы",
+    "calendar": "Каляндар",
+    "expenses": "Выдаткі",
+    "settings": "Налады",
+    "userName": "Імя карыстальніка",
+    "profile": "Профіль",
+    "appearance": "Знешні выгляд",
+    "logout": "Выхад"
+  }
+}

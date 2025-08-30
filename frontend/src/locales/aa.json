@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Qajeelfama Guudaa",
+  "systemGeneralSetting": "Qajeelfama Sirna Guutuu",
+  "defaultCurrency": "Gatii Jijjiiramaa Durtii",
+  "currencyFormat": "Sura Gatii Jijjiiramaa",
+  "numberFormat": "Sura Lakkaddaa",
+  "defaultCountry": "Biyya Durtii",
+  "dateTimeSettings": "Qajeelfama Guyyaa fi Sa'aa",
+  "timezone": "Gatii Sa'aatii",
+  "startDayOfWeek": "Guyyaa Duraa Torbanii",
+  "dateFormat": "Sura Guyyaa",
+  "timeFormat": "Sura Sa'aa",
+  "fiscalYearStart": "Eegalcha Waggaa Maallaqaa",
+  "localization": "Naannoof Fayyaadamuu",
+  "defaultLanguage": "Afaan Durtii",
+  "save": "Kayi",
+  "saving": "Kayiyaa Jira...",
+
+  "menu": {
+    "home": "Mana",
+    "allContacts": "Hundi Quunnamtii",
+    "accounts": "Herregaa",
+    "projects": "Projeektii",
+    "reports": "Gabaasa",
+    "calendar": "Kalandara",
+    "expenses": "Baasi",
+    "settings": "Qajeelfama",
+    "userName": "Maqaa Fayyadamaa",
+    "profile": "Piroofaayilii",
+    "appearance": "Mul'ata",
+    "logout": "Ba’i"
+  }
+}

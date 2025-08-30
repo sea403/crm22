@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Гьалгъуни тӀегъереб",
+  "systemGeneralSetting": "Система гьалгъуни тӀегъереб",
+  "defaultCurrency": "Къобал цӀаралча",
+  "currencyFormat": "Къобал формат",
+  "numberFormat": "Ракъан формат",
+  "defaultCountry": "ЦӀаралча гьалгъуни",
+  "dateTimeSettings": "Вачар ва цӀема тӀегъереб",
+  "timezone": "Вачарал зона",
+  "startDayOfWeek": "Неделачу башни цӀем",
+  "dateFormat": "Вачарал формат",
+  "timeFormat": "ЦӀемал формат",
+  "fiscalYearStart": "Молалъул чилда башни",
+  "localization": "Локализация",
+  "defaultLanguage": "ЦӀаралча мац",
+  "save": "Гъаб",
+  "saving": "Гъабун гоча...",
+  
+  "menu": {
+    "home": "Къайда",
+    "allContacts": "Хъама контактал",
+    "accounts": "Счетал",
+    "projects": "Проектал",
+    "reports": "Отчетал",
+    "calendar": "Календарь",
+    "expenses": "Расходал",
+    "settings": "ТӀегъереб",
+    "userName": "Адалъул хъун",
+    "profile": "Профиль",
+    "appearance": "КӀункъва",
+    "logout": "ЧӀикӀ"
+  }
+}

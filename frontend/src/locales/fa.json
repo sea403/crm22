@@ -1,0 +1,33 @@
+{
+  "generalSettings": "تنظیمات کلی",
+  "systemGeneralSetting": "تنظیمات کلی سیستم",
+  "defaultCurrency": "ارز پیش‌فرض",
+  "currencyFormat": "فرمت ارز",
+  "numberFormat": "فرمت عدد",
+  "defaultCountry": "کشور پیش‌فرض",
+  "dateTimeSettings": "تنظیمات تاریخ و زمان",
+  "timezone": "منطقه زمانی",
+  "startDayOfWeek": "شروع هفته",
+  "dateFormat": "فرمت تاریخ",
+  "timeFormat": "فرمت زمان",
+  "fiscalYearStart": "شروع سال مالی",
+  "localization": "بومی‌سازی",
+  "defaultLanguage": "زبان پیش‌فرض",
+  "save": "ذخیره",
+  "saving": "در حال ذخیره...",
+
+  "menu": {
+    "home": "خانه",
+    "allContacts": "همه مخاطبین",
+    "accounts": "حساب‌ها",
+    "projects": "پروژه‌ها",
+    "reports": "گزارش‌ها",
+    "calendar": "تقویم",
+    "expenses": "هزینه‌ها",
+    "settings": "تنظیمات",
+    "userName": "نام کاربری",
+    "profile": "پروفایل",
+    "appearance": "ظاهر",
+    "logout": "خروج"
+  }
+}

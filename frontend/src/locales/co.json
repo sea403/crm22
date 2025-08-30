@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Impostazioni Generali",
+  "systemGeneralSetting": "Impostazioni Generali di u Sistema",
+  "defaultCurrency": "Valuta Predefinita",
+  "currencyFormat": "Formatu di Valuta",
+  "numberFormat": "Formatu di Numeru",
+  "defaultCountry": "Paese Predefinitu",
+  "dateTimeSettings": "Impostazioni di Data è Ora",
+  "timezone": "Fusuu Orariu",
+  "startDayOfWeek": "Principiu di a Settimana",
+  "dateFormat": "Formatu di Data",
+  "timeFormat": "Formatu di Ora",
+  "fiscalYearStart": "Principiu di l'annu fiscale",
+  "localization": "Localizazione",
+  "defaultLanguage": "Lingua Predefinita",
+  "save": "Salvà",
+  "saving": "Salvamentu...",
+
+  "menu": {
+    "home": "Casa",
+    "allContacts": "Tutti i Cuntatti",
+    "accounts": "Conti",
+    "projects": "Prughjetti",
+    "reports": "Rapporti",
+    "calendar": "Calendariu",
+    "expenses": "Spese",
+    "settings": "Impostazioni",
+    "userName": "Nome d'Usuariu",
+    "profile": "Profilu",
+    "appearance": "Aspettu",
+    "logout": "Esci"
+  }
+}

@@ -1,0 +1,122 @@
+:root {
+  --box-shadow-1: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  --clr-primary: #4a90e2;
+}
+
+@yellow: #fff000;
+@cadetblue: cadetblue;
+@blueviolet: blueviolet;
+@teal: teal;
+@coral: coral;
+@slateblue: slateblue;
+@lightcoral: ligthcoral;
+@primary: lightcoral;
+@bg: #f9f9f9;
+@text: #333;
+
+@import "@/assets/styles/grids.less";
+
+.box {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  background-color: @bg;
+  pad: 0;
+  color: @text;
+}
+
+a {
+  text-decoration: none;
+}
+
+.color-primary {
+  color: @primary;
+}
+
+.color-slateblue {
+  color: slateblue;
+}
+
+.color-coral {
+  color: coral;
+}
+
+.color-teal {
+  color: teal;
+}
+
+.color-blueviolet {
+  color: blueviolet;
+}
+
+.color-cadetblue {
+  color: cadetblue;
+}
+
+.color-deepskyblue {
+  color: deepskyblue;
+}
+
+// Mixins
+.transition-all {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.d-flex {
+  display: flex;
+}
+
+.gap-2 {
+  gap: 10px;
+}
+
+/** me-1 to me-4 (1-4-8) **/
+.generate-margin-end(@i: 1) when (@i =< 4) {
+  .me-@{i} {
+    margin-inline-end: unit(@i, px) * 4;
+  }
+  .generate-margin-end(@i + 1);
+}
+
+.generate-margin-end();
+
+.d-block { display: block }
+.d-flex { display: flex; }
+
+
+/** mb-1 to mb-4 (1-4-8) **/
+.generate-margin-bottom(@i: 1) when (@i =< 4) {
+  .mb-@{i} {
+    margin-bottom: unit(@i, px) * 4;
+  }
+  .mt-@{i} {
+    margin-bottom: unit(@i, px) * 4;
+  }
+  .me-@{i} {
+    margin-bottom: unit(@i, px) * 4;
+  }
+  .ms-@{i} {
+    margin-bottom: unit(@i, px) * 4;
+  }
+  .generate-margin-bottom(@i + 1);
+}
+
+.generate-margin-bottom();
+
+.generate-text-sizes(@i: 1) when (@i <= 12) {
+  .text-@{i} {
+    font-size: (
+      3px + @i
+    ); // So .text-1 = 4px, .text-2 = 5px, ..., .text-12 = 15px
+  }
+  .generate-text-sizes(@i + 1);
+}
+.generate-text-sizes(); // Call the loop

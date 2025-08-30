@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Ümumi Ayarlar",
+  "systemGeneralSetting": "Sistem Ümumi Ayarları",
+  "defaultCurrency": "Varsayılan Valyuta",
+  "currencyFormat": "Valyuta Formatı",
+  "numberFormat": "Rəqəm Formatı",
+  "defaultCountry": "Varsayılan Ölkə",
+  "dateTimeSettings": "Tarix və Saat Ayarları",
+  "timezone": "Saat Qurşağı",
+  "startDayOfWeek": "Həftənin İlk Günü",
+  "dateFormat": "Tarix Formatı",
+  "timeFormat": "Saat Formatı",
+  "fiscalYearStart": "Maliyyə İl Başlanğıcı",
+  "localization": "Lokallaşdırma",
+  "defaultLanguage": "Varsayılan Dil",
+  "save": "Yadda saxla",
+  "saving": "Yadda saxlanılır...",
+
+  "menu": {
+    "home": "Əsas Səhifə",
+    "allContacts": "Bütün Əlaqələr",
+    "accounts": "Hesablar",
+    "projects": "Layihələr",
+    "reports": "Hesabatlar",
+    "calendar": "Təqvim",
+    "expenses": "Xərclər",
+    "settings": "Ayarlar",
+    "userName": "İstifadəçi Adı",
+    "profile": "Profil",
+    "appearance": "Görünüş",
+    "logout": "Çıxış"
+  }
+}

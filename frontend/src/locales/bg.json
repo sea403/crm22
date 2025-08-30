@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Общи настройки",
+  "systemGeneralSetting": "Системни общи настройки",
+  "defaultCurrency": "Валута по подразбиране",
+  "currencyFormat": "Формат на валута",
+  "numberFormat": "Формат на числа",
+  "defaultCountry": "Държава по подразбиране",
+  "dateTimeSettings": "Настройки на дата и час",
+  "timezone": "Часова зона",
+  "startDayOfWeek": "Начален ден от седмицата",
+  "dateFormat": "Формат на дата",
+  "timeFormat": "Формат на час",
+  "fiscalYearStart": "Начало на фискалната година",
+  "localization": "Локализация",
+  "defaultLanguage": "Език по подразбиране",
+  "save": "Запази",
+  "saving": "Запазване...",
+  "menu": {
+    "home": "Начало",
+    "allContacts": "Всички контакти",
+    "accounts": "Акаунти",
+    "projects": "Проекти",
+    "reports": "Отчети",
+    "calendar": "Календар",
+    "expenses": "Разходи",
+    "settings": "Настройки",
+    "userName": "Потребителско име",
+    "profile": "Профил",
+    "appearance": "Външен вид",
+    "logout": "Изход"
+  }
+}

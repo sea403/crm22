@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Ĝeneralaj Agordoj",
+  "systemGeneralSetting": "Sistema Ĝenerala Agordo",
+  "defaultCurrency": "Defaŭlta Valuto",
+  "currencyFormat": "Valuta Formato",
+  "numberFormat": "Nombra Formato",
+  "defaultCountry": "Defaŭlta Lando",
+  "dateTimeSettings": "Dato kaj Horo Agordoj",
+  "timezone": "Tempozono",
+  "startDayOfWeek": "Semajnkomenca Tago",
+  "dateFormat": "Dato Formato",
+  "timeFormat": "Horo Formato",
+  "fiscalYearStart": "Komenco de Fiska Jaro",
+  "localization": "Lingvigo",
+  "defaultLanguage": "Defaŭlta Lingvo",
+  "save": "Konservi",
+  "saving": "Konservado...",
+
+  "menu": {
+    "home": "Hejmo",
+    "allContacts": "Ĉiuj Kontaktoj",
+    "accounts": "Kontoj",
+    "projects": "Projektoj",
+    "reports": "Raportoj",
+    "calendar": "Kalendaro",
+    "expenses": "Elspezoj",
+    "settings": "Agordoj",
+    "userName": "Uzantnomo",
+    "profile": "Profilo",
+    "appearance": "Aspekto",
+    "logout": "Elsaluti"
+  }
+}

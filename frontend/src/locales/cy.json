@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Gosodiadau Cyffredinol",
+  "systemGeneralSetting": "Gosodiadau Cyffredinol y System",
+  "defaultCurrency": "Arian Rhagosodedig",
+  "currencyFormat": "Fformat Arian",
+  "numberFormat": "Fformat Rhif",
+  "defaultCountry": "Gwlad Rhagosodedig",
+  "dateTimeSettings": "Gosodiadau Dyddiad ac Amser",
+  "timezone": "Cylchfa Amser",
+  "startDayOfWeek": "Diwrnod Cychwyn yr Wythnos",
+  "dateFormat": "Fformat Dyddiad",
+  "timeFormat": "Fformat Amser",
+  "fiscalYearStart": "Dechrau'r Flwyddyn Ariannol",
+  "localization": "Lleoleiddio",
+  "defaultLanguage": "Iaith Rhagosodedig",
+  "save": "Cadw",
+  "saving": "Cadw...",
+
+  "menu": {
+    "home": "Cartref",
+    "allContacts": "Pob Cyswllt",
+    "accounts": "Cyfrifon",
+    "projects": "Prosiectau",
+    "reports": "Adroddiadau",
+    "calendar": "Calendr",
+    "expenses": "Treuliau",
+    "settings": "Gosodiadau",
+    "userName": "Enw Defnyddiwr",
+    "profile": "Proffil",
+    "appearance": "Ymddangosiad",
+    "logout": "Allgofnodi"
+  }
+}

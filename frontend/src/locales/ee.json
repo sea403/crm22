@@ -1,0 +1,33 @@
+{
+  "generalSettings": "Agbalẽƒe ŋkɔ",
+  "systemGeneralSetting": "Ɣe agbalẽƒe ŋkɔ",
+  "defaultCurrency": "Agbalẽ xɔxɔ meƒe ɖoɖo",
+  "currencyFormat": "ɖoɖo ƒe xexlẽme",
+  "numberFormat": "Ɣe xexlẽme",
+  "defaultCountry": "Agbalẽ ƒe dukɔ",
+  "dateTimeSettings": "Ŋkeke kple ɣeyiɣi ŋkɔ",
+  "timezone": "ɣeyiɣi ƒe afii",
+  "startDayOfWeek": "Kɔsi ŋkeke me",
+  "dateFormat": "Ŋkeke xexlẽme",
+  "timeFormat": "ɣeyiɣi xexlẽme",
+  "fiscalYearStart": "Agbale ɣeyiɣi ƒe dzi",
+  "localization": "Nutinyaƒe ŋkɔ",
+  "defaultLanguage": "Agbalẽ ƒe gbe",
+  "save": "Dzra",
+  "saving": "Dzra la me...",
+
+  "menu": {
+    "home": "ƒe dɔwɔnu",
+    "allContacts": "Nukpɔɖo me le gãtɔwo",
+    "accounts": "Akautawo",
+    "projects": "Dɔwɔnuwo",
+    "reports": "Nusinyɔnuwo",
+    "calendar": "Kaledaa",
+    "expenses": "Gbeƒãwo",
+    "settings": "Agbalẽŋkɔwo",
+    "userName": "Ŋkɔwɔlawo ƒe ŋkɔ",
+    "profile": "Profil",
+    "appearance": "Nuviwo ŋu me le eƒe nu",
+    "logout": "Yi ŋgɔ"
+  }
+}

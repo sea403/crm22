@@ -1,0 +1,33 @@
+{
+  "generalSettings": "iTuvatuva Levu",
+  "systemGeneralSetting": "iTuvatuva Levu ni System",
+  "defaultCurrency": "iLavo ni Veikacivi",
+  "currencyFormat": "iWalewale ni Lavo",
+  "numberFormat": "iWalewale ni Naba",
+  "defaultCountry": "Vanua ni Veikacivi",
+  "dateTimeSettings": "iTuvatuva ni Data kei na Wā",
+  "timezone": "Tabana ni Wā",
+  "startDayOfWeek": "iTekitekivu ni Macawa",
+  "dateFormat": "iWalewale ni Data",
+  "timeFormat": "iWalewale ni Wā",
+  "fiscalYearStart": "Tekivu ni Yabaki Lavo",
+  "localization": "Vakadidike ni Vanua",
+  "defaultLanguage": "Vosa ni Veikacivi",
+  "save": "Maroroya",
+  "saving": "Maroroya tiko...",
+
+  "menu": {
+    "home": "Vale",
+    "allContacts": "Veitaratara Taucoko",
+    "accounts": "iLavo",
+    "projects": "iTuvatuva",
+    "reports": "iTukutuku",
+    "calendar": "Kalendā",
+    "expenses": "iLavo Lasa",
+    "settings": "iTuvatuva",
+    "userName": "Yaca ni Dauvosa",
+    "profile": "iRogo",
+    "appearance": "iRairai",
+    "logout": "Biuta na System"
+  }
+}

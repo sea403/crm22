@@ -1,0 +1,32 @@
+{
+  "generalSettings": "Загальні налаштування",
+  "systemGeneralSetting": "Системні загальні налаштування",
+  "defaultCurrency": "Валюта за замовчуванням",
+  "currencyFormat": "Формат валюти",
+  "numberFormat": "Формат числа",
+  "defaultCountry": "Країна за замовчуванням",
+  "dateTimeSettings": "Налаштування дати та часу",
+  "timezone": "Часовий пояс",
+  "startDayOfWeek": "Початок тижня",
+  "dateFormat": "Формат дати",
+  "timeFormat": "Формат часу",
+  "fiscalYearStart": "Початок фінансового року",
+  "localization": "Локалізація",
+  "defaultLanguage": "Мова за замовчуванням",
+  "save": "Зберегти",
+  "saving": "Збереження...",
+  "menu": {
+    "home": "Головна",
+    "allContacts": "Усі контакти",
+    "accounts": "Облікові записи",
+    "projects": "Проєкти",
+    "reports": "Звіти",
+    "calendar": "Календар",
+    "expenses": "Витрати",
+    "settings": "Налаштування",
+    "userName": "Ім'я користувача",
+    "profile": "Профіль",
+    "appearance": "Зовнішній вигляд",
+    "logout": "Вийти"
+  }
+}
